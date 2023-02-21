@@ -1,0 +1,4 @@
+﻿@model int
+@inject SingletonService singletonService
+
+<p><span>Partial View @Model - Dependency Injection</span>@singletonService.GetId()</p>

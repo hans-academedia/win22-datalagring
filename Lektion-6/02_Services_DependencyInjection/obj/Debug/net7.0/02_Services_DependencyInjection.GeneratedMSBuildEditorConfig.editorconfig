@@ -1,0 +1,61 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _02_Services_DependencyInjection
+build_property.RootNamespace = _02_Services_DependencyInjection
+build_property.ProjectDir = C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-datalagring\Lektion-6\02_Services_DependencyInjection\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22\win22-datalagring\Lektion-6\02_Services_DependencyInjection
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/HansMattin-Lassei/Documents/Utbildning/WIN22/win22-datalagring/Lektion-6/02_Services_DependencyInjection/Views/Scoped/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NvcGVkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HansMattin-Lassei/Documents/Utbildning/WIN22/win22-datalagring/Lektion-6/02_Services_DependencyInjection/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HansMattin-Lassei/Documents/Utbildning/WIN22/win22-datalagring/Lektion-6/02_Services_DependencyInjection/Views/Shared/_ScopedPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TY29wZWRQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HansMattin-Lassei/Documents/Utbildning/WIN22/win22-datalagring/Lektion-6/02_Services_DependencyInjection/Views/Shared/_SingletonPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaW5nbGV0b25QYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HansMattin-Lassei/Documents/Utbildning/WIN22/win22-datalagring/Lektion-6/02_Services_DependencyInjection/Views/Shared/_TransientPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9UcmFuc2llbnRQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HansMattin-Lassei/Documents/Utbildning/WIN22/win22-datalagring/Lektion-6/02_Services_DependencyInjection/Views/Shared/_WithoutPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9XaXRob3V0UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HansMattin-Lassei/Documents/Utbildning/WIN22/win22-datalagring/Lektion-6/02_Services_DependencyInjection/Views/Singleton/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2luZ2xldG9uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HansMattin-Lassei/Documents/Utbildning/WIN22/win22-datalagring/Lektion-6/02_Services_DependencyInjection/Views/Transient/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNpZW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HansMattin-Lassei/Documents/Utbildning/WIN22/win22-datalagring/Lektion-6/02_Services_DependencyInjection/Views/Without/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2l0aG91dFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HansMattin-Lassei/Documents/Utbildning/WIN22/win22-datalagring/Lektion-6/02_Services_DependencyInjection/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HansMattin-Lassei/Documents/Utbildning/WIN22/win22-datalagring/Lektion-6/02_Services_DependencyInjection/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

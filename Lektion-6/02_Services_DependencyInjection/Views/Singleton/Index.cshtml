@@ -1,0 +1,13 @@
+﻿@model SingletonService
+@inject SingletonService singletonService
+
+
+<h1 class="mb-5">Dependency Injection - <em>Singleton</em></h1>
+
+<h5>Parent View</h5>
+<p><span>From Controller - return View(_singletonService);</span>@Model.GetId()</p>
+<p><span>In View - Dependency Injection</span>@singletonService.GetId()</p>
+
+<h5 class="mt-5">Child Components/Partial Views</h5>
+<partial name="_SingletonPartial" model=1 />
+<partial name="_SingletonPartial" model=2 />

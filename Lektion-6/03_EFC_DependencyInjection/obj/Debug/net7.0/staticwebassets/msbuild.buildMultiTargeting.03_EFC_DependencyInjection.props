@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\03_EFC_DependencyInjection.props" />
+</Project>

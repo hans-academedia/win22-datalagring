@@ -1,0 +1,4 @@
+﻿@model int
+@inject TransientService transientService
+
+<p><span>Partial View @Model - Dependency Injection</span>@transientService.GetId()</p>

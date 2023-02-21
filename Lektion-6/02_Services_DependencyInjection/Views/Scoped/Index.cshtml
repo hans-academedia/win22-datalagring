@@ -1,0 +1,12 @@
+﻿@model ScopedService
+@inject ScopedService scopedService
+
+<h1 class="mb-5">Dependency Injection - <em>Scoped</em></h1>
+
+<h5>Parent View</h5>
+<p><span>From Controller - return View(_scopedService);</span>@Model.GetId()</p>
+<p><span>In View - Dependency Injection</span>@scopedService.GetId()</p>
+
+<h5 class="mt-5">Child Components/Partial Views</h5>
+<partial name="_ScopedPartial" model=1 />
+<partial name="_ScopedPartial" model=2 />

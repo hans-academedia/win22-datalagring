@@ -1,0 +1,14 @@
+﻿@model WithoutService
+@{
+    var withoutSerivce = new WithoutService();
+}
+
+<h1 class="mb-5">Without Dependency Injection - <em>var service = new Service();</em></h1>
+
+<h5>Parent View</h5>
+<p><span>From Controller - return View(_withoutSerivce);</span>@Model.GetId()</p>
+<p><span>In View - new WithoutService(); </span>@withoutSerivce.GetId()</p>
+
+<h5 class="mt-5">Child Components/Partial Views</h5>
+<partial name="_WithoutPartial" model=1 />
+<partial name="_WithoutPartial" model=2 />

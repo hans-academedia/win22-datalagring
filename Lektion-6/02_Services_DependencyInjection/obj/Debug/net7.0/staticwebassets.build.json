@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "n9+38xQeAl7PWP6Modx6WIPLhWqPljwtDOsAWAQoqqw=",
+  "Source": "02_Services_DependencyInjection",
+  "BasePath": "_content/02_Services_DependencyInjection",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "02_Services_DependencyInjection\\wwwroot",
+      "Source": "02_Services_DependencyInjection",
+      "ContentRoot": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\WIN22\\win22-datalagring\\Lektion-6\\02_Services_DependencyInjection\\wwwroot\\",
+      "BasePath": "_content/02_Services_DependencyInjection",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\WIN22\\win22-datalagring\\Lektion-6\\02_Services_DependencyInjection\\wwwroot\\css\\site.css",
+      "SourceId": "02_Services_DependencyInjection",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\WIN22\\win22-datalagring\\Lektion-6\\02_Services_DependencyInjection\\wwwroot\\",
+      "BasePath": "_content/02_Services_DependencyInjection",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\WIN22\\win22-datalagring\\Lektion-6\\02_Services_DependencyInjection\\wwwroot\\favicon.ico",
+      "SourceId": "02_Services_DependencyInjection",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\WIN22\\win22-datalagring\\Lektion-6\\02_Services_DependencyInjection\\wwwroot\\",
+      "BasePath": "_content/02_Services_DependencyInjection",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\WIN22\\win22-datalagring\\Lektion-6\\02_Services_DependencyInjection\\wwwroot\\js\\site.js",
+      "SourceId": "02_Services_DependencyInjection",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\WIN22\\win22-datalagring\\Lektion-6\\02_Services_DependencyInjection\\wwwroot\\",
+      "BasePath": "_content/02_Services_DependencyInjection",
+      "RelativePath": "js/site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ]
+}

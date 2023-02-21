@@ -1,0 +1,4 @@
+﻿@model int
+@inject ScopedService scopedService
+
+<p><span>Partial View @Model - Dependency Injection</span>@scopedService.GetId()</p>
